@@ -1,0 +1,12 @@
+name: LanguageModule
+author: LUPU
+softdepend:
+  - MysqlAPI
+version: 1.0
+api-version: 1.18
+main: dev.lupluv.langmodule.Lang
+
+commands:
+  lang:
+  language:
+  sprache:

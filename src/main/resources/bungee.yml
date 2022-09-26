@@ -1,0 +1,8 @@
+name: LanguageModule
+author: LUPU
+softdepend:
+  - MysqlAPI
+version: 1.0
+main: dev.lupluv.langmodule.bungee.BungeeMain
+
+commands:
